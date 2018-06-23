@@ -1889,9 +1889,9 @@ textarea.form-control {
 }
 
 .img-details .author {
-  margin-left: 10px;
   margin-top: -21px;
-  width: 40px;
+  display: inline-grid;
+  grid-template-columns: auto auto auto auto;
 }
 
 .img-circle {
