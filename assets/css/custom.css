@@ -1,0 +1,66 @@
+/*
+#0A1C4C OXFORD BLUE
+#415A77 DEEP SPACE SPARKLE
+#778DA9 SHADOW BLUE
+#E0E1DD GAINSBORO
+#000000 BLACK
+*/
+
+#header-image-text {
+  color: white;
+}
+
+.header-btn {
+  border-radius: 20px;
+  box-sizing: border-box;
+  border-width: 2px;
+  border-style: solid;
+  background-color: transparent;
+  font-family: 'roboto mono';
+  font-size: 16px;
+  font-weight: 500;
+  padding: 7px 18px;
+  border-color: white;
+  color: white;
+  -webkit-font-smoothing: antialiased;
+  -webkit-transition: all 150ms linear;
+  -moz-transition: all 150ms linear;
+  -o-transition: all 150ms linear;
+  -ms-transition: all 150ms linear;
+  transition: all 150ms linear;
+}
+
+.btn-custom {
+  font-family: 'roboto mono';
+  color: #fff !important;
+  background-color: #7A9E9F !important;
+  opacity: 1;
+  box-sizing: border-box;
+  font-size: 16px;
+  font-weight: 500;
+  padding: 7px 18px;
+  box-sizing: border-box;
+  font-size: 16px;
+  font-weight: 500;
+  padding: 7px 18px;
+  -webkit-transition: all 150ms linear;
+  -moz-transition: all 150ms linear;
+  -o-transition: all 150ms linear;
+  -ms-transition: all 150ms linear;
+  transition: all 150ms linear;
+}
+
+.btn-custom:hover {
+  color: #fff !important;
+  background-color: #66615B !important;
+  opacity: 1;
+  box-sizing: border-box;
+  font-size: 16px;
+  font-weight: 500;
+  padding: 7px 18px;
+  -webkit-transition: all 150ms linear;
+  -moz-transition: all 150ms linear;
+  -o-transition: all 150ms linear;
+  -ms-transition: all 150ms linear;
+  transition: all 150ms linear;
+}
