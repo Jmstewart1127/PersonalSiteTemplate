@@ -13,7 +13,7 @@
 }
 
 .landing-header .motto {
-  padding-top: 8%;
+  padding-top: 15%;
   text-align: left;
   z-index: 3;
 }
@@ -182,4 +182,44 @@
 
 .alert h5 {
   margin-bottom: 10px;
+}
+
+@media screen and (max-width: 1000px) {
+  .landing-header .motto {
+    padding-top: 14%;
+    text-align: left;
+    z-index: 3;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .landing-header .motto {
+    padding-top: 20%;
+    text-align: left;
+    z-index: 3;
+  }
+}
+
+@media screen and (max-width: 670px) {
+  .landing-header .motto {
+    padding-top: 28%;
+    text-align: left;
+    z-index: 3;
+  }
+}
+
+@media screen and (max-width: 530px) {
+  .landing-header .motto {
+    padding-top: 32%;
+    text-align: left;
+    z-index: 3;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .landing-header .motto {
+    padding-top: 30%;
+    text-align: left;
+    z-index: 3;
+  }
 }

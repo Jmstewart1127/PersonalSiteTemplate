@@ -33,7 +33,7 @@
 .btn-custom {
   font-family: 'roboto mono';
   color: #fff !important;
-  background-color: #7A9E9F !important;
+  background-color: #a6bbbb !important;
   opacity: 1;
   box-sizing: border-box;
   font-size: 16px;
@@ -84,4 +84,10 @@
   overflow: hidden;
   width: 80px;
   float: left;
+}
+
+.source {
+  display: grid;
+  font-family: 'roboto mono';
+  text-align: center;
 }
