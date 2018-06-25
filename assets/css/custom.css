@@ -79,3 +79,9 @@
   background: #f4f3ef;
   border-radius: 50px;
 }
+
+.logo-container .logo-small{
+  overflow: hidden;
+  width: 80px;
+  float: left;
+}
